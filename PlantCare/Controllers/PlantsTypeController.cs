@@ -118,6 +118,7 @@ namespace PlantCare.Controllers
             }
             else
                 return View(curPlantsType);
+            //test
         }
 
         [HttpPost]
