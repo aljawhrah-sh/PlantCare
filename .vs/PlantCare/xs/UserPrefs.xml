@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{DA1D8A69-BCF3-4F19-84B3-6676D3591151}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlantCare/Controllers/PlantController.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="PlantCare/Controllers/PlantsTypeController.cs" Line="24" Column="1" IsPinned="True" />
       <File FileName="PlantCare/Controllers/PlantController.cs" Line="33" Column="15" />
@@ -20,23 +19,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PlantCare" expanded="True">
+          <Node name="PlantCare">
             <Node name="PlantCare" expanded="True">
               <Node name="Controllers" expanded="True">
                 <Node name="PlantController.cs" selected="True" />
-              </Node>
-              <Node name="Data" expanded="True" />
-              <Node name="Helpers" expanded="True" />
-              <Node name="Interface" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Repository" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Plant" expanded="True" />
-                <Node name="PlantsType" expanded="True" />
-                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -44,4 +30,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
