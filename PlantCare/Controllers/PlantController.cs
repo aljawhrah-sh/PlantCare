@@ -30,6 +30,7 @@ namespace PlantCare.Controllers
         public async Task<IActionResult> Create()
         {
             //var plant = await _plantRepository.GetAll();
+            //
             var createVM = new CreatePlantViewModel();
             return View(createVM);
         }
