@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{DA1D8A69-BCF3-4F19-84B3-6676D3591151}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="PlantCare/Controllers/PlantController.cs">
     <Files>
-      <File FileName="PlantCare/Models/PlantsType.cs" Line="16" Column="3" />
-      <File FileName="PlantCare/Models/Plant.cs" Line="13" Column="43" />
-      <File FileName="PlantCare/Interfaces/IphotoServices.cs" Line="1" Column="1" />
-      <File FileName="PlantCare/Helpers/CloudinarySettings.cs" Line="1" Column="1" />
-      <File FileName="PlantCare/Data/ApplicationDbContext.cs" Line="17" Column="1" />
-      <File FileName="PlantCare/Services/PhotoService.cs" Line="47" Column="6" />
-      <File FileName="PlantCare/Migrations/20230801105445_init.cs" Line="1" Column="1" />
-      <File FileName="PlantCare/Controllers/PlantController.cs" Line="12" Column="9" />
+      <File FileName="PlantCare/Controllers/PlantsTypeController.cs" Line="24" Column="1" IsPinned="True" />
+      <File FileName="PlantCare/Controllers/PlantController.cs" Line="33" Column="15" />
+      <File FileName="PlantCare/Views/Plant/Index.cshtml" />
+      <File FileName="PlantCare/Views/PlantsType/Index.cshtml" />
+      <File FileName="PlantCare/Views/Shared/_Layout.cshtml" />
+      <File FileName="PlantCare/Repository/PlantsTypeRepository.cs" />
+      <File FileName="PlantCare/Interface/IPlantsTypeRepository.cs" />
+      <File FileName="PlantCare/Models/PlantsType.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,17 +27,21 @@
               </Node>
               <Node name="Data" expanded="True" />
               <Node name="Helpers" expanded="True" />
-              <Node name="Interfaces" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+              <Node name="Interface" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
               <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Plant" expanded="True" />
+                <Node name="PlantsType" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
