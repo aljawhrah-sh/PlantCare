@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DA1D8A69-BCF3-4F19-84B3-6676D3591151}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlantCare/Controllers/PlantController.cs">
+    <Files>
+      <File FileName="PlantCare/Models/PlantsType.cs" Line="16" Column="3" />
+      <File FileName="PlantCare/Models/Plant.cs" Line="13" Column="43" />
+      <File FileName="PlantCare/Interfaces/IphotoServices.cs" Line="1" Column="1" />
+      <File FileName="PlantCare/Helpers/CloudinarySettings.cs" Line="1" Column="1" />
+      <File FileName="PlantCare/Data/ApplicationDbContext.cs" Line="17" Column="1" />
+      <File FileName="PlantCare/Services/PhotoService.cs" Line="47" Column="6" />
+      <File FileName="PlantCare/Migrations/20230801105445_init.cs" Line="1" Column="1" />
+      <File FileName="PlantCare/Controllers/PlantController.cs" Line="12" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlantCare" expanded="True">
+            <Node name="PlantCare" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PlantController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
