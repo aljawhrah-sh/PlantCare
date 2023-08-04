@@ -1,29 +1,18 @@
 ﻿<Properties StartupConfiguration="{DA1D8A69-BCF3-4F19-84B3-6676D3591151}|Default" GitUserInfo="UsingGIT">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PlantCare PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlantCare/Controllers/HomeController.cs">
     <Files>
-      <File FileName="PlantCare/Controllers/PlantsTypeController.cs" Line="24" Column="1" IsPinned="True" />
-      <File FileName="PlantCare/Controllers/PlantController.cs" Line="33" Column="15" />
-      <File FileName="PlantCare/Views/Plant/Index.cshtml" />
-      <File FileName="PlantCare/Views/PlantsType/Index.cshtml" />
-      <File FileName="PlantCare/Views/Shared/_Layout.cshtml" />
-      <File FileName="PlantCare/Repository/PlantsTypeRepository.cs" />
-      <File FileName="PlantCare/Interface/IPlantsTypeRepository.cs" />
-      <File FileName="PlantCare/Models/PlantsType.cs" />
+      <File FileName="PlantCare/Controllers/HomeController.cs" Line="20" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PlantCare">
             <Node name="PlantCare" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="PlantController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
@@ -31,4 +20,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -41,6 +41,7 @@ namespace PlantCare.Controllers
             {
                 ModelState.AddModelError("", "creation failed");
             }
+            //test
             else
             {
                 var ImageToUrl = await _photoServices.AddPhotoAsync(createVM.Image);
